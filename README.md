@@ -5,7 +5,7 @@ A code for computing the survival mass fraction of axion minihalos due to stella
 
 The _Data_ folder contains data files associated with previous journal articles. The _Figure_ folders contain Python files to generate output quantities. These folders also contain a Python file to generate the corresponding figures. The figure numbers are the same as in the journal article: [Disruption of dark matter minihalos by successive stellar encounters](https://doi.org/10.1103/PhysRevD.109.123035) (If the link  doesn't work, click on the address of the browser and press return/enter after you have opened up the link).
 
-Each Python or Jupyter Notebook contains a _#PARAMETERS_ section in the code immediately after importing the libraries. You can adjust the parameters of the file by modifying the values of each parameters. The plotting code files have a parameter _save_to_disk_. Set this parameter to _True_ if you want to save the generated figure.
+Each Python or Jupyter Notebook contains a _#PARAMETERS_ section in the code immediately after importing the libraries. You can adjust the parameters of the file by modifying the values of each parameter. The plotting code files have a parameter _save_to_disk_. Set this parameter to _True_ if you want to save the generated figure.
 
 ### Citation
 
