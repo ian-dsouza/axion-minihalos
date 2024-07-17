@@ -18,3 +18,7 @@ Also, please cite the following paper:
 Written and maintained by Ian DSouza and Chris Gordon.
 
 If you have any questions about the code or if the code is behaving unexpectedly, please contact Ian at ids29@uclive.ac.nz (preferred) or at iandsouza86@gmail.com .
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
