@@ -11,7 +11,7 @@ Each Python or Jupyter Notebook contains a _#PARAMETERS_ section in the code imm
 
 If you use this code repository, please cite this repository and its DOI: [10.5281/zenodo.12754050](https://doi.org/10.5281/zenodo.12754050).
 Also, please cite the following paper:
-> I. DSouza & C. Gordon (2024), "Disruption of dark matter minihalos by successive stellar encounters".
+> I. DSouza & C. Gordon (2024), "Disruption of dark matter minihalos by successive stellar encounters". Phys. Rev. D 109, 123035.
 
 ### Authors & Contact
 
