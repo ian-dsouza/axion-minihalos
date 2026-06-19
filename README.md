@@ -17,7 +17,7 @@ Also, please cite the following paper:
 
 Written and maintained by Ian DSouza.
 
-If you have any questions about the code or if the code is behaving unexpectedly, please contact Ian at ids29@uclive.ac.nz (preferred) or at iandsouza86@gmail.com .
+If you have any questions about the code or if the code is behaving unexpectedly, please contact Ian at iandsouza86@gmail.com .
 
 ### License
 
